@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/index"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#d93136",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "VUIDEMO",
+    "backgroundColor": "#f4f4f4",
+    "backgroundTextStyle": "dark",
+    "enablePullDownRefresh": false
+  },
+  "networkTimeout": {
+    "request": 1000000,
+    "downloadFile": 10000
+  },
+  "debug": true
+}
